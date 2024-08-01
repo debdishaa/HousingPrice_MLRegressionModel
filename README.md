@@ -1,6 +1,4 @@
-# HousingPrice_MLRegressionModel
-
-# Housing Price Prediction
+# Housing Price Prediction (Using Multiple Linear Regression Model)
 
 ## Introduction
 
